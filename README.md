@@ -1,0 +1,2 @@
+# gyminimal
+🏋️‍♂️ - Academia Gyminimal
