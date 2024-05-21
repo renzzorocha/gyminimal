@@ -10,7 +10,7 @@
 
 <h2>😎 Projeto </h2>
 
-- Este projeto (site) foi feito para praticar alguns conceitos de HTML, como forms, listas ordenadas, hierarquia de título e etc.<br>
+- Este projeto (site) foi feito para praticar alguns conceitos de HTML, como forms, listas ordenadas, hierarquia de título além de treinar alguns sobre CSS.<br>
 
 <h2>💻 Tecnologias </h2>
 
