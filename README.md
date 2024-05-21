@@ -18,3 +18,4 @@ As tecnologias que foram utilizadas são as seguintes:
 
 - IDE - <a href="https://code.visualstudio.com/">Visual Studio Code</a>
 - HTML - <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">HTML</a>
+- CSS - <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">CSS</a>
